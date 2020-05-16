@@ -1,2 +1,4 @@
 # hello-world
-just a  repository
+
+
+This is the beginning of my study at github.
